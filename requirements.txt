@@ -1,0 +1,7 @@
+numpy
+pandas
+pytest
+h5py
+json
+matplotlib
+seaborn
