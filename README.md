@@ -2,7 +2,7 @@
 
 ## What is it?
 
-**HIDSAG** is a Python package that provides some functionalities to easy 
+**HIDSAG** is a Python package that provides some functionalities for easy 
 handle the hyperspectral data records provided as a database for supervised
 analysis in geometallurgy in Python.
 
@@ -20,14 +20,20 @@ https://github.com/alges/hidsag
 [MIT](LICENSE)
 
 # Acknowledge
-Please cite the following paper when publishing work relating this code:
+Please cite the following paper when publishing work relating to this code:
+  
+    @article{hidsag2023,
+	    author = {Ehrenfeld, Alejandro and Ega{\~n}a, {\'A}lvaro F. and Santiba{\~n}ez-Leal, Felipe and Garrido, Felipe and Ojeda, Marcia and Townley, Brian and Navarro, Felipe},
+	    date = {2023/03/23},
+	    doi = {10.1038/s41597-023-02061-x},
+	    isbn = {2052-4463},
+	    journal = {Scientific Data},
+	    number = {1},
+	    pages = {164},
+	    title = {HIDSAG: Hyperspectral Image Database for Supervised Analysis in Geometallurgy},
+	    url = {https://doi.org/10.1038/s41597-023-02061-x},
+	    volume = {10},
+	    year = {2023},
+	    bdsk-url-1 = {https://doi.org/10.1038/s41597-023-02061-x}
+     }
 
-    @inproceedings{egana2021,
-      Author = {},
-      Title = {},
-      Booktitle = {},
-      Series = {},
-      Year = {2021},
-      doi = {},
-      pages = {1--12}
-    }
